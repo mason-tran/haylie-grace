@@ -2,7 +2,7 @@
  
 ![WhatDog?](https://barkpost.com/wp-content/uploads/2015/02/featmeme.jpg)
 
-### Haylie Grace - EP
+### Haylie Grace - EP (2017)
 
 ```
 1.  Didn't Take Long
@@ -12,7 +12,7 @@
 5.  Healing
 ```
 
-### Haylie Grace - Porcelain (Single)
+### Haylie Grace - Porcelain (Single 2018)
 
 ```
 1.  Porcelain
