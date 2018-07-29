@@ -1,4 +1,3 @@
 ## Welcome to Haylie Grace
  
-WHAT SHOULD WE PUT HERE?
-
+![WhatDog?](https://barkpost.com/wp-content/uploads/2015/02/featmeme.jpg)
