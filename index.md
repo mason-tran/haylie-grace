@@ -3,6 +3,7 @@
 ![WhatDog?](https://barkpost.com/wp-content/uploads/2015/02/featmeme.jpg)
 
 ### Haylie Grace - EP
+
 ```ep
 1.  Didn't Take Long
 2.  Heart to Hold
@@ -12,6 +13,7 @@
 ```
 
 ### Haylie Grace - Porcelain (Single)
+
 ```single
 1.  Porcelain
 ```
