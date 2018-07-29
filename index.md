@@ -4,7 +4,7 @@
 
 ### Haylie Grace - EP
 
-```ep
+```
 1.  Didn't Take Long
 2.  Heart to Hold
 3.  Birds
@@ -14,6 +14,6 @@
 
 ### Haylie Grace - Porcelain (Single)
 
-```single
+```
 1.  Porcelain
 ```
